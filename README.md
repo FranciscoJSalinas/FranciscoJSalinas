@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Francisco Salinas</h1>
 <h3 align="center">I'm studying in an electronic engineering career at Universidad Tecnológica Nacional Facultad Regional Mendoza</h3>
 
